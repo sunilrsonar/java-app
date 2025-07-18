@@ -10,7 +10,7 @@
 
 	<groupId>io.benco</groupId>
 	<artifactId>java-demoapp</artifactId>
-	<version>${app.version}</version>
+	<version>1.0.0</version>
 	<name>java-demoapp</name>
 	<description>Demo project for Spring Boot</description>
 
